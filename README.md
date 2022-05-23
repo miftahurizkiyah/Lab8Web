@@ -54,4 +54,8 @@ Buat file baru dengan nama hapus.php
 
 ![Picture](SS/hapus.png)
 
+########################################################
+
+# Thank You
+
 
