@@ -18,7 +18,11 @@ Mengakses MySQL Client menggunakan PHP MyAdmin
 Pastikan webserver Apache dan MySQL server sudah dijalankan. Kemudian buka
 melalui browser: http://localhost/phpmyadmin/
 
+lalu kita membuat database dan juga tabel
 
+![Picture](SS/Membuat_gambar%26Tabel.png)
+
+lalu membuat 
 
 
 
