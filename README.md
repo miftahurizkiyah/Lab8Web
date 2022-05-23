@@ -35,6 +35,8 @@ http://localhost/lab8_php_database/
 Membuat file index untuk menampilkan data (Read)
 Buat file baru dengan nama index.php
 
+![Picture](SS/index_php.png)
+
 ![Picture](SS/ikon_tambah_barang.png)
 
 Menambah Data (Create)
@@ -42,5 +44,14 @@ Buat file baru dengan nama tambah.php
 
 ![Picture](SS/tambah_barang.png)
 
+Mengubah Data (Update)
+Buat file baru dengan nama ubah.php
+
+![Picture](SS/ubah_barang.png)
+
+Menghapus Data (delete)
+Buat file baru dengan nama hapus.php
+
+![Picture](SS/hapus.png)
 
 
