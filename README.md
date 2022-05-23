@@ -7,5 +7,11 @@ Kelas   : TI.20.B1<br>
 
 # PHP Dasar
 
+Langkah-langkah Praktikum<br>
+
+# Menjalankan MySQP Server
+<br>
+![picture](SS/MySQL.png)
+
 
 
