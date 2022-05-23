@@ -11,7 +11,7 @@ Langkah-langkah Praktikum<br>
 
 # Menjalankan MySQP Server
 <br>
-![picture](SS/MySQL.png)
+![picture](SS/MySQL.PNG)
 
 
 
