@@ -9,10 +9,16 @@ Kelas   : TI.20.B1<br>
 
 Langkah-langkah Praktikum<br>
 
-# Menjalankan MySQP Server
+# Menjalankan MySQL Server
 <br>
 
 ![Picture](SS/MySQL.png)
+
+Mengakses MySQL Client menggunakan PHP MyAdmin
+Pastikan webserver Apache dan MySQL server sudah dijalankan. Kemudian buka
+melalui browser: http://localhost/phpmyadmin/
+
+
 
 
 
