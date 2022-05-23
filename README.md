@@ -18,11 +18,29 @@ Mengakses MySQL Client menggunakan PHP MyAdmin
 Pastikan webserver Apache dan MySQL server sudah dijalankan. Kemudian buka
 melalui browser: http://localhost/phpmyadmin/
 
-lalu kita membuat database dan juga tabel
+lalu kita membuat database, tabel dan juga menambahkan data
 
 ![Picture](SS/Membuat_gambar%26Tabel.png)
 
-lalu membuat 
+Membuat Program CRUD
+Buat folder lab8_php_database pada root directory web server (d:\xampp\htdocs)
+
+![Picture](SS/htdoc.png)
+
+Kemudian untuk mengakses direktory tersebut pada web server dengan mengakses URL:
+http://localhost/lab8_php_database/
+
+![Picture](SS/koneksi_php.png)
+
+Membuat file index untuk menampilkan data (Read)
+Buat file baru dengan nama index.php
+
+![Picture](SS/ikon_tambah_barang.png)
+
+Menambah Data (Create)
+Buat file baru dengan nama tambah.php
+
+![Picture](SS/tambah_barang.png)
 
 
 
