@@ -11,7 +11,8 @@ Langkah-langkah Praktikum<br>
 
 # Menjalankan MySQP Server
 <br>
-![Picture](https://github.com/miftahurizkiyah/Lab8Web/blob/main/SS/MySQL.png)
+
+![Picture](SS/MySQL.png)
 
 
 
